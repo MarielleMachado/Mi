@@ -1,6 +1,6 @@
 # MathFinty
 
-![MathFinty Logo](url_del_logo.png)
+![MathFinty Logo](Mathfintty_Logo)
 
 ## Descripción
 
