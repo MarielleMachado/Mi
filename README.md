@@ -18,4 +18,4 @@ MathFinty es una plataforma de tecnología financiera que ofrece servicios de ge
 - Java
 - HTML/CSS
 - JavaScript
-- MySQL
+- SQL Server
